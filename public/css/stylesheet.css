@@ -1,0 +1,214 @@
+@charset "UTF-8";
+
+
+body {
+    font-family:"Avenir Next","Amatic SC","Meiryo";
+    font-size: 15px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.logo{
+    text-align: center;
+    background-color: #BC8F8F;
+}  
+h1.taitle{
+    color: #FFFFFF;
+}
+
+.logo img{
+    width:60px;
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.header{
+    width: 1200px;
+    margin:0 auto;
+}
+
+.header-button{
+    width: 140px;
+    height: 50px;
+    background-color: #BC8F8F;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.header-buttonrog{
+    float: right;
+    width: 140px;
+    height: 50px;
+    background-color: #9ac3c6;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+.header-button:hover{
+    background-color: #FFB6C1;
+}
+.copy-container{
+    background-image: url(../img/itigo.jpg);
+    background-size: cover;
+    background-position: center　center;
+    width: 1200px;
+    height: 500px; 
+    margin: 0 auto;
+    margin-top: 0px;
+    opacity: 0.8;
+    color: #FFFFFF;
+}
+
+h1.white{
+padding-top: 100px;
+}
+h2.white{
+    padding-top: 50px;
+}
+.contents{
+    margin:200px;
+}
+.contents h1{
+    text-align: left;
+    border-bottom:1px solid #333;
+    width: 80%;
+    margin:20px;
+}
+
+.total-contents-item{
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.image-button1{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/uruoi.jpg);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.image-button2{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/hari.jpg);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.image-button3{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/bihaku.png);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.image-button4{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/keana.jpg);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.contents{
+    color:#926e6e;
+}
+.button-text{
+padding-right: 40px;
+font-size: 18px;
+}
+
+.vitamin13{
+    font-size: 22px;
+    font-weight: 650;
+    text-align: left;
+    border-bottom:1px solid #333;
+    width: 30%;
+    margin:20px;
+    white-space: nowrap;
+    padding-top: 30px;
+}
+
+.image-buttonA{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/vitamin.A.jpg);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.image-buttonD{
+    width: 120px;
+    height: 120px;
+    background-image: url(../img/vitamin.D.png);
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+}
+
+.mineral{
+    font-size: 22px;
+    font-weight: 650;
+    text-align: left;
+    border-bottom:1px solid #333;
+    width: 14%;
+    margin:20px;
+    white-space: nowrap;
+    padding-top: 30px;
+}
+.carotenoids{
+    font-size: 22px;
+    font-weight: 650;
+    text-align: left;
+    border-bottom:1px solid #333;
+    width: 14%;
+    margin:20px;
+    white-space: nowrap;
+    padding-top: 30px;
+}
+.contents h2{
+    text-align: left;
+    text-decoration: underline;
+    margin:50px;
+}
+
+.kensakuform{
+    font-weight: 500;
+    width:300px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.copy{
+    text-align:center;
+    color: #926e6e;
+}
